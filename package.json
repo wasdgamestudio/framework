@@ -1,0 +1,41 @@
+{
+  "name": "com.wasd.framework",
+  "version": "0.3.2",
+  "displayName": "WASD Framework",
+  "description": "Framework unity",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasdgamestudio/framework.git"
+  },
+  "author": {
+    "name": "WASD Mobile",
+    "email": "admin@wasdmobile.com"
+  },
+  "samples": [
+    {
+      "displayName": "Ads Sample",
+      "path": "Samples~/Ads"
+    },
+    {
+      "displayName": "Attributes Sample",
+      "path": "Samples~/Attributes"
+    },
+    {
+      "displayName": "HealthBar Sample",
+      "path": "Samples~/HealthBar"
+    },
+    {
+      "displayName": "Pooler Sample",
+      "path": "Samples~/Pooler"
+    },
+    {
+      "displayName": "Splash Sample",
+      "path": "Samples~/Splash"
+    }
+  ]
+}
